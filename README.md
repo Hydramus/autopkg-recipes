@@ -1,2 +1,2 @@
-# jsung-autopkg-recipes
+# autopkg-recipes
 custom autopkg receipes
